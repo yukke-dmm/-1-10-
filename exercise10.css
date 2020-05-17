@@ -44,7 +44,7 @@ main{
 }
 .step{
 	position: absolute;
-	top: 0;ß
+	top: 0;
 	left: 0;
 	background-color: orange;
 	color: #fff;
@@ -60,6 +60,7 @@ main{
 		margin: 50px auto;
 	}
 	.main-visual{
+		width: 100%;
 		margin-bottom: 20px;
 		float: none;
 	}
